@@ -1,2 +1,0 @@
-Created Test3.txt file.
-This is test3.txt file.
